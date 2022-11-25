@@ -1,29 +1,29 @@
 {
-"Employee": [
+    "Employee": [
+    {
+      "id":"1",
+      "Managerid":"",
+      "Employeename":"Ram"
+    },
+    {
+      "id":"2",
+      "Managerid":"1",
+      "Employeename":"John"
+    },
+    {
+      "id":"3",
+      "Managerid":"2",
+      "Employeename":"Karen"
+    }
+  ],
+   "department":[
+  {
+    "departmentName":"software",
+    "salary":"10000"
+  },
 {
-"id":"1",
-"Managerid":"",
-"Employeename":"Ram"
-},
-{
-"id":"2",
-"Managerid":"1",
-"Employeename":"John"
-},
-{
-"id":"3",
-"Managerid":"2",
-"Employeename":"Karen"
-},
-]
-"department":[
-{
-"departmentName":"software",
-"salary":"10000"
-},
-{
-"departmentName":"product",
-"salary":"20000"
-}
+    "departmentName":"product",
+    "salary":"20000"
+  }
 ]
 }
